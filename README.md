@@ -1,6 +1,8 @@
 # Java Starter
 
-A template for Java Projects.
+A template for quick hack Java Projects.
+
+__NOTE__: This is not suitable for production level java projects. 
 
 ## Tech Stack
 
