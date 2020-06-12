@@ -1,11 +1,11 @@
-# Java 11 Starter
+# Java Starter
 
-A template for Java 11 Projects.
+A template for Java Projects.
 
 ## Tech Stack
 
-* [Java 11](https://openjdk.java.net/projects/jdk/11/)
-* [Gradle](https://docs.gradle.org/current/userguide/getting_started.html)
+* [Java 12](https://openjdk.java.net/projects/jdk/11/)
+* [Gradle 6.5](https://docs.gradle.org/current/userguide/getting_started.html)
 * [Lombok](https://projectlombok.org/features/all) 
 * [Vavr.io](https://www.vavr.io/vavr-docs/)
 * [Mockito](https://site.mockito.org/#how)
